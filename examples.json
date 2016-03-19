@@ -1,0 +1,190 @@
+/*stream online*/
+
+{
+  "stream": {
+    "_id": 20075036304,
+    "game": "Tom Clancy's The Division",
+    "viewers": 33811,
+    "created_at": "2016-03-08T19:54:31Z",
+    "video_height": 720,
+    "average_fps": 60.4890604891,
+    "delay": 0,
+    "is_playlist": false,
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/lirik"
+    },
+    "preview": {
+      "small": "http://static-cdn.jtvnw.net/previews-ttv/live_user_lirik-80x45.jpg",
+      "medium": "http://static-cdn.jtvnw.net/previews-ttv/live_user_lirik-320x180.jpg",
+      "large": "http://static-cdn.jtvnw.net/previews-ttv/live_user_lirik-640x360.jpg",
+      "template": "http://static-cdn.jtvnw.net/previews-ttv/live_user_lirik-{width}x{height}.jpg"
+    },
+    "channel": {
+      "mature": true,
+      "status": "24 hrs ;_; fuuu - Twitter: @LIRIK - The Division - Sponsored By Ubisoft",
+      "broadcaster_language": "en",
+      "display_name": "LIRIK",
+      "game": "Tom Clancy's The Division",
+      "language": "en",
+      "_id": 23161357,
+      "name": "lirik",
+      "created_at": "2011-06-27T18:34:45Z",
+      "updated_at": "2016-03-08T20:15:07Z",
+      "delay": null,
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-profile_image-b3ff7b706b3de124-300x300.png",
+      "banner": null,
+      "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-channel_offline_image-352c6f90d89f741b-1920x1080.jpeg",
+      "background": null,
+      "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-profile_banner-fcf7d67c16ed4190-480.png",
+      "profile_banner_background_color": "#221f1f",
+      "partner": true,
+      "url": "http://www.twitch.tv/lirik",
+      "views": 102490317,
+      "followers": 1277228,
+      "_links": {
+        "self": "http://api.twitch.tv/kraken/channels/lirik",
+        "follows": "http://api.twitch.tv/kraken/channels/lirik/follows",
+        "commercial": "http://api.twitch.tv/kraken/channels/lirik/commercial",
+        "stream_key": "http://api.twitch.tv/kraken/channels/lirik/stream_key",
+        "chat": "http://api.twitch.tv/kraken/chat/lirik",
+        "features": "http://api.twitch.tv/kraken/channels/lirik/features",
+        "subscriptions": "http://api.twitch.tv/kraken/channels/lirik/subscriptions",
+        "editors": "http://api.twitch.tv/kraken/channels/lirik/editors",
+        "teams": "http://api.twitch.tv/kraken/channels/lirik/teams",
+        "videos": "http://api.twitch.tv/kraken/channels/lirik/videos"
+      }
+    }
+  },
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/lirik",
+    "channel": "https://api.twitch.tv/kraken/channels/lirik"
+  }
+}
+
+/*channel*/
+{
+  "mature": false,
+  "status": "Making Better Twitch Profiles! | Node + React #Programming",
+  "broadcaster_language": "en",
+  "display_name": "FreeCodeCamp",
+  "game": "Creative",
+  "language": "en",
+  "_id": 79776140,
+  "name": "freecodecamp",
+  "created_at": "2015-01-14T03:36:47Z",
+  "updated_at": "2016-03-08T20:15:56Z",
+  "delay": null,
+  "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/freecodecamp-profile_image-d9514f2df0962329-300x300.png",
+  "banner": null,
+  "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/freecodecamp-channel_offline_image-b8e133c78cd51cb0-1920x1080.png",
+  "background": null,
+  "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/freecodecamp-profile_banner-6f5e3445ff474aec-480.png",
+  "profile_banner_background_color": null,
+  "partner": false,
+  "url": "http://www.twitch.tv/freecodecamp",
+  "views": 116973,
+  "followers": 6763,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/channels/freecodecamp",
+    "follows": "https://api.twitch.tv/kraken/channels/freecodecamp/follows",
+    "commercial": "https://api.twitch.tv/kraken/channels/freecodecamp/commercial",
+    "stream_key": "https://api.twitch.tv/kraken/channels/freecodecamp/stream_key",
+    "chat": "https://api.twitch.tv/kraken/chat/freecodecamp",
+    "features": "https://api.twitch.tv/kraken/channels/freecodecamp/features",
+    "subscriptions": "https://api.twitch.tv/kraken/channels/freecodecamp/subscriptions",
+    "editors": "https://api.twitch.tv/kraken/channels/freecodecamp/editors",
+    "teams": "https://api.twitch.tv/kraken/channels/freecodecamp/teams",
+    "videos": "https://api.twitch.tv/kraken/channels/freecodecamp/videos"
+  }
+}
+
+{
+  "mature": true,
+  "status": "24 hrs ;_; fuuu - Twitter: @LIRIK - The Division - Sponsored By Ubisoft",
+  "broadcaster_language": "en",
+  "display_name": "LIRIK",
+  "game": "Tom Clancy's The Division",
+  "language": "en",
+  "_id": 23161357,
+  "name": "lirik",
+  "created_at": "2011-06-27T18:34:45Z",
+  "updated_at": "2016-03-08T20:15:07Z",
+  "delay": null,
+  "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-profile_image-b3ff7b706b3de124-300x300.png",
+  "banner": null,
+  "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-channel_offline_image-352c6f90d89f741b-1920x1080.jpeg",
+  "background": null,
+  "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/lirik-profile_banner-fcf7d67c16ed4190-480.png",
+  "profile_banner_background_color": "#221f1f",
+  "partner": true,
+  "url": "http://www.twitch.tv/lirik",
+  "views": 102490317,
+  "followers": 1277223,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/channels/lirik",
+    "follows": "https://api.twitch.tv/kraken/channels/lirik/follows",
+    "commercial": "https://api.twitch.tv/kraken/channels/lirik/commercial",
+    "stream_key": "https://api.twitch.tv/kraken/channels/lirik/stream_key",
+    "chat": "https://api.twitch.tv/kraken/chat/lirik",
+    "features": "https://api.twitch.tv/kraken/channels/lirik/features",
+    "subscriptions": "https://api.twitch.tv/kraken/channels/lirik/subscriptions",
+    "editors": "https://api.twitch.tv/kraken/channels/lirik/editors",
+    "teams": "https://api.twitch.tv/kraken/channels/lirik/teams",
+    "videos": "https://api.twitch.tv/kraken/channels/lirik/videos"
+  }
+}
+
+
+/*stream offline*/
+{
+  "stream": null,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/freecodecamp",
+    "channel": "https://api.twitch.tv/kraken/channels/freecodecamp"
+  }
+}
+
+/*no account*/
+{
+  "error": "Unprocessable Entity",
+  "message": "Channel 'brunofin' is unavailable",
+  "status": 422
+}
+
+/*offline but make api call to api.twitch.tv/kraken/channels/username instead*/
+
+{
+  "mature": null,
+  "status": null,
+  "broadcaster_language": null,
+  "display_name": "storbeck",
+  "game": null,
+  "language": "en",
+  "_id": 86238744,
+  "name": "storbeck",
+  "created_at": "2015-03-25T02:23:40Z",
+  "updated_at": "2016-03-08T19:31:22Z",
+  "delay": null,
+  "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/storbeck-profile_image-7ab13c2f781b601d-300x300.jpeg",
+  "banner": null,
+  "video_banner": null,
+  "background": null,
+  "profile_banner": null,
+  "profile_banner_background_color": null,
+  "partner": false,
+  "url": "http://www.twitch.tv/storbeck",
+  "views": 330,
+  "followers": 3,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/channels/storbeck",
+    "follows": "https://api.twitch.tv/kraken/channels/storbeck/follows",
+    "commercial": "https://api.twitch.tv/kraken/channels/storbeck/commercial",
+    "stream_key": "https://api.twitch.tv/kraken/channels/storbeck/stream_key",
+    "chat": "https://api.twitch.tv/kraken/chat/storbeck",
+    "features": "https://api.twitch.tv/kraken/channels/storbeck/features",
+    "subscriptions": "https://api.twitch.tv/kraken/channels/storbeck/subscriptions",
+    "editors": "https://api.twitch.tv/kraken/channels/storbeck/editors",
+    "teams": "https://api.twitch.tv/kraken/channels/storbeck/teams",
+    "videos": "https://api.twitch.tv/kraken/channels/storbeck/videos"
+  }
+}

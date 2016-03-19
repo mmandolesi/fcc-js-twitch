@@ -1,0 +1,145 @@
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+
+body {
+  background-image: url(https://raw.githubusercontent.com/mand0/images/master/use_your_illusion.png);
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 50px;
+}
+
+.containerr {
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+body h1 {
+  font-family: 'Audiowide', cursive;
+  font-size: 100px;
+  font-weight: 700;
+  color: #9b59b6;
+  display: inline;
+  margin: auto;
+}
+
+body p {
+
+  font-size: 40px;
+  font-weight: bold;
+  color: green;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.divider {
+   width: 55%;
+   background-color: #9b59b6;
+   color: #9b59b6;
+   border-color: #9b59b6;
+   height: 2px;
+}
+
+.intro p {
+  display: inline-block;
+}
+
+.button-online {
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 30px;
+  color: rgb(26, 202, 236);
+  background-color: rgb(120, 26, 226);
+  border: 0px;
+  margin-left: 20px;
+  box-shadow: 0px 6px 0px rgb(90, 19, 171), 0px 3px 15px rgba(0,0,0,.4), inset 0px 1px 0px rgba(255,255,255,.3), inset 0px 0px 3px rgba(255,255,255,.5);
+}
+
+[class*="twitch-box-"] {
+  border: 3px solid #c0392b;
+  border-radius: 30px;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+  width: 55%;
+  height: 210px;
+  margin: 30px auto;
+}
+
+/*[class*="twitch-box-"]:active,
+[class*="twitch-box-"]:hover {
+  border: 3px solid green;
+}*/
+
+[class*="twitch-icon-"] {
+  width: 15%;
+  text-align: left;
+  float: left;
+  /*clear: left;*/
+  /*display: inline-block;*/
+}
+
+[class*="twitch-info-"] {
+  color: white;
+  width: 45%;
+  text-align: left;
+  float: left;
+  /*clear: left;*/
+  /*display: inline-block;*/
+}
+
+[class*="twitch-stream-preview-container-"] {
+  text-align: left;
+  float: left;
+  width: 40%;
+  /*clear: left;*/
+  /*display: inline-block;*/
+}
+
+
+[class*="twitch-image-"] {
+  /*float: left;*/
+  border-radius: 20px;
+  width: 100px;
+  height: auto;
+}
+
+[class*="twitch-username-"] {
+  font-size: 24px;
+  color: #da950f;
+  /*display: inline-block;*/
+  /*float: left;*/
+  /*clear: left;*/
+  /*margin: auto;*/
+}
+
+[class*="twitch-status-"] {
+
+  /*display: inline-block;*/
+  /*float: left;*/
+  /*clear: left;*/
+}
+
+[class*="twitch-game-"] {
+  /*display: inline-block;*/
+  /*float: left;*/
+  /*clear: left;*/
+}
+
+[class*="twitch-stream-preview-"] {
+  /*display: inline-block;*/
+  float: right;
+  border-radius: 20px;
+  /*clear: right;*/
+}
+
+[class*="twitch-stream-create-"] {
+  /*display: inline-block;*/
+  /*float: left;*/
+  /*clear: left;*/
+}
+
+[class*="twitch-stream-viewers-"] {
+  /*display: inline-block;*/
+  /*float: left;*/
+  /*clear: left;*/
+}
